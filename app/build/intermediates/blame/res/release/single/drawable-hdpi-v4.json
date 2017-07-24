@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "E:\\Breeds\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\border_style.xml",
+        "source": "E:\\Breeds\\app\\src\\main\\res\\drawable-hdpi\\border_style.xml"
+    },
+    {
+        "merged": "L:\\Breeds\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\border_style.xml",
+        "source": "L:\\Breeds\\app\\src\\main\\res\\drawable-hdpi\\border_style.xml"
+    },
+    {
+        "merged": "L:\\Breeds\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\camera_icon.jpg",
+        "source": "L:\\Breeds\\app\\src\\main\\res\\drawable-hdpi\\camera_icon.jpg"
+    },
+    {
+        "merged": "E:\\Breeds\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\cloud_background.jpg",
+        "source": "E:\\Breeds\\app\\src\\main\\res\\drawable-hdpi\\cloud_background.jpg"
+    },
+    {
+        "merged": "L:\\Breeds\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\grass_background.jpg",
+        "source": "L:\\Breeds\\app\\src\\main\\res\\drawable-hdpi\\grass_background.jpg"
+    },
+    {
+        "merged": "E:\\Breeds\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\vizsla.gif",
+        "source": "E:\\Breeds\\app\\src\\main\\res\\drawable-hdpi\\vizsla.gif"
+    },
+    {
+        "merged": "L:\\Breeds\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\slovak_cuvac.gif",
+        "source": "L:\\Breeds\\app\\src\\main\\res\\drawable-hdpi\\slovak_cuvac.gif"
+    },
+    {
+        "merged": "E:\\Breeds\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\camera_icon.jpg",
+        "source": "E:\\Breeds\\app\\src\\main\\res\\drawable-hdpi\\camera_icon.jpg"
+    },
+    {
+        "merged": "E:\\Breeds\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\grass_background.jpg",
+        "source": "E:\\Breeds\\app\\src\\main\\res\\drawable-hdpi\\grass_background.jpg"
+    },
+    {
+        "merged": "L:\\Breeds\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\cloud_background.jpg",
+        "source": "L:\\Breeds\\app\\src\\main\\res\\drawable-hdpi\\cloud_background.jpg"
+    },
+    {
+        "merged": "E:\\Breeds\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\slovak_cuvac.gif",
+        "source": "E:\\Breeds\\app\\src\\main\\res\\drawable-hdpi\\slovak_cuvac.gif"
+    },
+    {
+        "merged": "L:\\Breeds\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\vizsla.gif",
+        "source": "L:\\Breeds\\app\\src\\main\\res\\drawable-hdpi\\vizsla.gif"
+    }
+]

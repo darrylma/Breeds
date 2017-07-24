@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="armeabi-v7a,armeabi"
+    api-level="23"
+    density="xxhdpi"
+    format="8"
+    plugin-version="2.2.3"
+    timestamp="6645172470583"
+    token="3131344966859812370"
+    verifier="COMPATIBLE" >
+
+    <task
+        name="javac"
+        duration="429" />
+    <task
+        name="instant-run-dex"
+        duration="935" />
+    <task
+        name="instant-run-transform"
+        duration="88" />
+    <task
+        name="verifier"
+        duration="22" />
+
+    <artifact
+        location="L:\Breeds\app\build\intermediates\reload-dex\debug\classes.dex"
+        type="RELOAD_DEX" />
+
+    <build
+        timestamp="3175233731237"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="L:\Breeds\app\build\outputs\apk\app-debug.apk"
+            type="MAIN" />
+    </build>
+    <build
+        timestamp="5789553387623"
+        verifier="COLD_SWAP_REQUESTED" >
+        <artifact
+            location="L:\Breeds\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_1\classes.dex"
+            type="DEX" />
+    </build>
+    <build
+        timestamp="6255478791490"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="L:\Breeds\app\build\intermediates\builds\debug\6255478791490\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="6388768043662"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="L:\Breeds\app\build\intermediates\builds\debug\6388768043662\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="6455228283700"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="L:\Breeds\app\build\intermediates\builds\debug\6455228283700\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="6645172470583"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="L:\Breeds\app\build\intermediates\reload-dex\debug\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+
+</instant-run>

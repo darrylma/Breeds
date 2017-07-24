@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\chma\.gradle\caches\modules-2\files-2.1\com.google.http-client\google-http-client-android\1.20.0\313dc99a7963523871495897ca11aa8472b3c6fd\google-http-client-android-1.20.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="313dc99a7963523871495897ca11aa8472b3c6fd">
+        <dex dex="E:\Breeds\app\build\intermediates\pre-dexed\release\google-http-client-android-1.20.0_d9d7a6cdb4f8954f6083e9035d5952b646b772a3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\chma\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.3\support-annotations-21.0.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="E:\Breeds\app\build\intermediates\pre-dexed\release\support-annotations-21.0.3_d093e92b895817891cf9a3b8d4d9f4a472e787a9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Breeds\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\jars\libs\internal_impl-21.0.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="E:\Breeds\app\build\intermediates\pre-dexed\release\internal_impl-21.0.3_25f13c2db181bf325a33737eefce2f9529ae4454.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Breeds\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="E:\Breeds\app\build\intermediates\pre-dexed\release\com.android.support-support-v4-21.0.3_6b752a116d4b8290bce22a66fdcfa89308fd43de.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Breeds\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="E:\Breeds\app\build\intermediates\pre-dexed\release\com.android.support-appcompat-v7-21.0.3_4e32b2f3da80d78e49b894af0584b66da404f526.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\chma\.gradle\caches\modules-2\files-2.1\com.google.http-client\google-http-client\1.20.0\93d82db2bca534960253f43424b2ba9d7638b4d2\google-http-client-1.20.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="93d82db2bca534960253f43424b2ba9d7638b4d2">
+        <dex dex="E:\Breeds\app\build\intermediates\pre-dexed\release\google-http-client-1.20.0_0738700f4ad4398e7a2716eebc5993580c5a8cd7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\chma\.gradle\caches\modules-2\files-2.1\com.google.api-client\google-api-client-android\1.20.0\5673179575c32b69a474334255c3044adf18d40\google-api-client-android-1.20.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="05673179575c32b69a474334255c3044adf18d40">
+        <dex dex="E:\Breeds\app\build\intermediates\pre-dexed\release\google-api-client-android-1.20.0_ca3bbe8ea35d247dfac8545545712fc0a7c6e758.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Breeds\app\microsoft-translator-java-api-0.6.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="2b9686e4d86b1565f3fa7a5060246b40ba96e447">
+        <dex dex="E:\Breeds\app\build\intermediates\pre-dexed\release\microsoft-translator-java-api-0.6.2_6455289a0693cb5b9453680357dbcbc4cb82b8ea.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\chma\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-core\2.1.3\f6c3aed1cdfa21b5c1737c915186ea93a95a58bd\jackson-core-2.1.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f6c3aed1cdfa21b5c1737c915186ea93a95a58bd">
+        <dex dex="E:\Breeds\app\build\intermediates\pre-dexed\release\jackson-core-2.1.3_9063512339099591b1b5261c063692d3e56c8459.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Breeds\app\google-api-services-vision-v1-rev24-1.22.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c54a0424e34bd17db78761c7efd9df2e9199d783">
+        <dex dex="E:\Breeds\app\build\intermediates\pre-dexed\release\google-api-services-vision-v1-rev24-1.22.0_37755bd6a8df34cfee97d61ed87a4d381efd1edc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\chma\.gradle\caches\modules-2\files-2.1\com.google.api-client\google-api-client\1.20.0\d3e66209ae9e749b2d6833761e7885f60f285564\google-api-client-1.20.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d3e66209ae9e749b2d6833761e7885f60f285564">
+        <dex dex="E:\Breeds\app\build\intermediates\pre-dexed\release\google-api-client-1.20.0_989147d015fe2682e5d35af5e0a364490842af23.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Breeds\app\json-simple-1.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5d6f9b6a9ddca2a28c0216cc44efb2e20d9c23b5">
+        <dex dex="E:\Breeds\app\build\intermediates\pre-dexed\release\json-simple-1.1.1_ef999d8cd0d97e2460b352ecd4d227a5fb4a8e58.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\chma\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.1\2e66da15851f9f5b5079228f856c2f090ba98c38\gson-2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="2e66da15851f9f5b5079228f856c2f090ba98c38">
+        <dex dex="E:\Breeds\app\build\intermediates\pre-dexed\release\gson-2.1_008fa6458202fa0fe985799510a169c944908959.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\chma\.gradle\caches\modules-2\files-2.1\com.google.http-client\google-http-client-jackson2\1.20.0\2408070b2abec043624d35b35e30450f1b663858\google-http-client-jackson2-1.20.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="2408070b2abec043624d35b35e30450f1b663858">
+        <dex dex="E:\Breeds\app\build\intermediates\pre-dexed\release\google-http-client-jackson2-1.20.0_503f838915c315b96fefce1af1e291c3e39ab7f0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\chma\.gradle\caches\modules-2\files-2.1\com.google.guava\guava-jdk5\13.0\381ae6c8add7c98e9bcddb1e0b898400cd6fc3f7\guava-jdk5-13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="381ae6c8add7c98e9bcddb1e0b898400cd6fc3f7">
+        <dex dex="E:\Breeds\app\build\intermediates\pre-dexed\release\guava-jdk5-13.0_1ff6b2162735c609388abbdf590d725f00e891cb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\chma\.gradle\caches\modules-2\files-2.1\com.google.oauth-client\google-oauth-client\1.20.0\1d086ac5756475ddf451af2e2df6e288d18608ca\google-oauth-client-1.20.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="1d086ac5756475ddf451af2e2df6e288d18608ca">
+        <dex dex="E:\Breeds\app\build\intermediates\pre-dexed\release\google-oauth-client-1.20.0_d91560b98bed40c4347cf5b22d27d48e4a3a10a4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\chma\.gradle\caches\modules-2\files-2.1\com.google.code.findbugs\jsr305\1.3.9\40719ea6961c0cb6afaeb6a921eaa1f6afd4cfdf\jsr305-1.3.9.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="40719ea6961c0cb6afaeb6a921eaa1f6afd4cfdf">
+        <dex dex="E:\Breeds\app\build\intermediates\pre-dexed\release\jsr305-1.3.9_10247e3e561b87963f088d6b8f62aeef4940c8cb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\chma\.gradle\caches\modules-2\files-2.1\com.google.http-client\google-http-client-gson\1.20.0\9204765f39000f6109c927ac66c7963bf9c7df19\google-http-client-gson-1.20.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9204765f39000f6109c927ac66c7963bf9c7df19">
+        <dex dex="E:\Breeds\app\build\intermediates\pre-dexed\release\google-http-client-gson-1.20.0_2b6552c01e9dbad015bccf3b5852593dad9ca923.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,902 @@
+[
+    {
+        "merged": "L:\\Breeds\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\german_short_haired_pointer.png",
+        "source": "L:\\Breeds\\app\\src\\main\\res\\drawable-hdpi\\german_short_haired_pointer.png"
+    },
+    {
+        "merged": "L:\\Breeds\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_menu_hardkey_panel_mtrl_mult.9.png",
+        "source": "L:\\Breeds\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable-hdpi\\abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "L:\\Breeds\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\transparent.png",
+        "source": "L:\\Breeds\\app\\src\\main\\res\\drawable-hdpi\\transparent.png"
+    },
+    {
+        "merged": "L:\\Breeds\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_btn_radio_to_on_mtrl_015.png",
+        "source": "L:\\Breeds\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable-hdpi\\abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "L:\\Breeds\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\greater_swiss_mountain_dog.png",
+        "source": "L:\\Breeds\\app\\src\\main\\res\\drawable-hdpi\\greater_swiss_mountain_dog.png"
+    },
+    {
+        "merged": "L:\\Breeds\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_ic_clear_mtrl_alpha.png",
+        "source": "L:\\Breeds\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable-hdpi\\abc_ic_clear_mtrl_alpha.png"
+    },
+    {
+        "merged": "L:\\Breeds\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_list_selector_disabled_holo_light.9.png",
+        "source": "L:\\Breeds\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable-hdpi\\abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "L:\\Breeds\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\eskimo_dog.png",
+        "source": "L:\\Breeds\\app\\src\\main\\res\\drawable-hdpi\\eskimo_dog.png"
+    },
+    {
+        "merged": "L:\\Breeds\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\basenji.png",
+        "source": "L:\\Breeds\\app\\src\\main\\res\\drawable-hdpi\\basenji.png"
+    },
+    {
+        "merged": "L:\\Breeds\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\groenendael.png",
+        "source": "L:\\Breeds\\app\\src\\main\\res\\drawable-hdpi\\groenendael.png"
+    },
+    {
+        "merged": "L:\\Breeds\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\irish_terrier.png",
+        "source": "L:\\Breeds\\app\\src\\main\\res\\drawable-hdpi\\irish_terrier.png"
+    },
+    {
+        "merged": "L:\\Breeds\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\berger_blanc_suisse.png",
+        "source": "L:\\Breeds\\app\\src\\main\\res\\drawable-hdpi\\berger_blanc_suisse.png"
+    },
+    {
+        "merged": "L:\\Breeds\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\havanese.png",
+        "source": "L:\\Breeds\\app\\src\\main\\res\\drawable-hdpi\\havanese.png"
+    },
+    {
+        "merged": "L:\\Breeds\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\kuvasz.png",
+        "source": "L:\\Breeds\\app\\src\\main\\res\\drawable-hdpi\\kuvasz.png"
+    },
+    {
+        "merged": "L:\\Breeds\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\gordon_setter.png",
+        "source": "L:\\Breeds\\app\\src\\main\\res\\drawable-hdpi\\gordon_setter.png"
+    },
+    {
+        "merged": "L:\\Breeds\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\standard_poodle.png",
+        "source": "L:\\Breeds\\app\\src\\main\\res\\drawable-hdpi\\standard_poodle.png"
+    },
+    {
+        "merged": "L:\\Breeds\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\komondor.png",
+        "source": "L:\\Breeds\\app\\src\\main\\res\\drawable-hdpi\\komondor.png"
+    },
+    {
+        "merged": "L:\\Breeds\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_ic_go_search_api_mtrl_alpha.png",
+        "source": "L:\\Breeds\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable-hdpi\\abc_ic_go_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "L:\\Breeds\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\puli.png",
+        "source": "L:\\Breeds\\app\\src\\main\\res\\drawable-hdpi\\puli.png"
+    },
+    {
+        "merged": "L:\\Breeds\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\chesapeake_bay_retriever.png",
+        "source": "L:\\Breeds\\app\\src\\main\\res\\drawable-hdpi\\chesapeake_bay_retriever.png"
+    },
+    {
+        "merged": "L:\\Breeds\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\tervuren.png",
+        "source": "L:\\Breeds\\app\\src\\main\\res\\drawable-hdpi\\tervuren.png"
+    },
+    {
+        "merged": "L:\\Breeds\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_btn_switch_to_on_mtrl_00012.9.png",
+        "source": "L:\\Breeds\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable-hdpi\\abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "L:\\Breeds\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_ic_ab_back_mtrl_am_alpha.png",
+        "source": "L:\\Breeds\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable-hdpi\\abc_ic_ab_back_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "L:\\Breeds\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_switch_track_mtrl_alpha.9.png",
+        "source": "L:\\Breeds\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable-hdpi\\abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "L:\\Breeds\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_list_longpressed_holo.9.png",
+        "source": "L:\\Breeds\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable-hdpi\\abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "L:\\Breeds\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\clumber.png",
+        "source": "L:\\Breeds\\app\\src\\main\\res\\drawable-hdpi\\clumber.png"
+    },
+    {
+        "merged": "L:\\Breeds\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\irish_water_spaniel.png",
+        "source": "L:\\Breeds\\app\\src\\main\\res\\drawable-hdpi\\irish_water_spaniel.png"
+    },
+    {
+        "merged": "L:\\Breeds\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\german_spitz.png",
+        "source": "L:\\Breeds\\app\\src\\main\\res\\drawable-hdpi\\german_spitz.png"
+    },
+    {
+        "merged": "L:\\Breeds\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\norwegian_elkhound.png",
+        "source": "L:\\Breeds\\app\\src\\main\\res\\drawable-hdpi\\norwegian_elkhound.png"
+    },
+    {
+        "merged": "L:\\Breeds\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\norwegian_buhund.png",
+        "source": "L:\\Breeds\\app\\src\\main\\res\\drawable-hdpi\\norwegian_buhund.png"
+    },
+    {
+        "merged": "L:\\Breeds\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\white_shepherd.png",
+        "source": "L:\\Breeds\\app\\src\\main\\res\\drawable-hdpi\\white_shepherd.png"
+    },
+    {
+        "merged": "L:\\Breeds\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\saluki.png",
+        "source": "L:\\Breeds\\app\\src\\main\\res\\drawable-hdpi\\saluki.png"
+    },
+    {
+        "merged": "L:\\Breeds\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\old_english_bulldog.png",
+        "source": "L:\\Breeds\\app\\src\\main\\res\\drawable-hdpi\\old_english_bulldog.png"
+    },
+    {
+        "merged": "L:\\Breeds\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\soft_coated_wheaten_terrier.png",
+        "source": "L:\\Breeds\\app\\src\\main\\res\\drawable-hdpi\\soft_coated_wheaten_terrier.png"
+    },
+    {
+        "merged": "L:\\Breeds\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_btn_check_to_on_mtrl_000.png",
+        "source": "L:\\Breeds\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable-hdpi\\abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "L:\\Breeds\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_list_focused_holo.9.png",
+        "source": "L:\\Breeds\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable-hdpi\\abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "L:\\Breeds\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\blenheim_spaniel.png",
+        "source": "L:\\Breeds\\app\\src\\main\\res\\drawable-hdpi\\blenheim_spaniel.png"
+    },
+    {
+        "merged": "L:\\Breeds\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\cairn.png",
+        "source": "L:\\Breeds\\app\\src\\main\\res\\drawable-hdpi\\cairn.png"
+    },
+    {
+        "merged": "L:\\Breeds\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\bluetick.png",
+        "source": "L:\\Breeds\\app\\src\\main\\res\\drawable-hdpi\\bluetick.png"
+    },
+    {
+        "merged": "L:\\Breeds\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\pumi.png",
+        "source": "L:\\Breeds\\app\\src\\main\\res\\drawable-hdpi\\pumi.png"
+    },
+    {
+        "merged": "L:\\Breeds\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_ic_search_api_mtrl_alpha.png",
+        "source": "L:\\Breeds\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable-hdpi\\abc_ic_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "L:\\Breeds\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\redbone.png",
+        "source": "L:\\Breeds\\app\\src\\main\\res\\drawable-hdpi\\redbone.png"
+    },
+    {
+        "merged": "L:\\Breeds\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\yorkshire_terrier.png",
+        "source": "L:\\Breeds\\app\\src\\main\\res\\drawable-hdpi\\yorkshire_terrier.png"
+    },
+    {
+        "merged": "L:\\Breeds\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\boxer.png",
+        "source": "L:\\Breeds\\app\\src\\main\\res\\drawable-hdpi\\boxer.png"
+    },
+    {
+        "merged": "L:\\Breeds\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\dhole.png",
+        "source": "L:\\Breeds\\app\\src\\main\\res\\drawable-hdpi\\dhole.png"
+    },
+    {
+        "merged": "L:\\Breeds\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\pomeranian.png",
+        "source": "L:\\Breeds\\app\\src\\main\\res\\drawable-hdpi\\pomeranian.png"
+    },
+    {
+        "merged": "L:\\Breeds\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\german_shepherd.png",
+        "source": "L:\\Breeds\\app\\src\\main\\res\\drawable-hdpi\\german_shepherd.png"
+    },
+    {
+        "merged": "L:\\Breeds\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\airedale.png",
+        "source": "L:\\Breeds\\app\\src\\main\\res\\drawable-hdpi\\airedale.png"
+    },
+    {
+        "merged": "L:\\Breeds\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\shih_tzu.png",
+        "source": "L:\\Breeds\\app\\src\\main\\res\\drawable-hdpi\\shih_tzu.png"
+    },
+    {
+        "merged": "L:\\Breeds\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\papillon.png",
+        "source": "L:\\Breeds\\app\\src\\main\\res\\drawable-hdpi\\papillon.png"
+    },
+    {
+        "merged": "L:\\Breeds\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\old_english_sheepdog.png",
+        "source": "L:\\Breeds\\app\\src\\main\\res\\drawable-hdpi\\old_english_sheepdog.png"
+    },
+    {
+        "merged": "L:\\Breeds\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\polish_lowland_sheepdog.png",
+        "source": "L:\\Breeds\\app\\src\\main\\res\\drawable-hdpi\\polish_lowland_sheepdog.png"
+    },
+    {
+        "merged": "L:\\Breeds\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\australian_shepherd.png",
+        "source": "L:\\Breeds\\app\\src\\main\\res\\drawable-hdpi\\australian_shepherd.png"
+    },
+    {
+        "merged": "L:\\Breeds\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\toy_poodle.png",
+        "source": "L:\\Breeds\\app\\src\\main\\res\\drawable-hdpi\\toy_poodle.png"
+    },
+    {
+        "merged": "L:\\Breeds\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\great_dane.png",
+        "source": "L:\\Breeds\\app\\src\\main\\res\\drawable-hdpi\\great_dane.png"
+    },
+    {
+        "merged": "L:\\Breeds\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\saint_bernard.png",
+        "source": "L:\\Breeds\\app\\src\\main\\res\\drawable-hdpi\\saint_bernard.png"
+    },
+    {
+        "merged": "L:\\Breeds\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_textfield_search_default_mtrl_alpha.9.png",
+        "source": "L:\\Breeds\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable-hdpi\\abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "L:\\Breeds\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\greyhound.png",
+        "source": "L:\\Breeds\\app\\src\\main\\res\\drawable-hdpi\\greyhound.png"
+    },
+    {
+        "merged": "L:\\Breeds\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\affenpinscher.png",
+        "source": "L:\\Breeds\\app\\src\\main\\res\\drawable-hdpi\\affenpinscher.png"
+    },
+    {
+        "merged": "L:\\Breeds\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\bloodhound.png",
+        "source": "L:\\Breeds\\app\\src\\main\\res\\drawable-hdpi\\bloodhound.png"
+    },
+    {
+        "merged": "L:\\Breeds\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\tibetan_mastiff.png",
+        "source": "L:\\Breeds\\app\\src\\main\\res\\drawable-hdpi\\tibetan_mastiff.png"
+    },
+    {
+        "merged": "L:\\Breeds\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\img_4_star.png",
+        "source": "L:\\Breeds\\app\\src\\main\\res\\drawable-hdpi\\img_4_star.png"
+    },
+    {
+        "merged": "L:\\Breeds\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_ic_menu_share_mtrl_alpha.png",
+        "source": "L:\\Breeds\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable-hdpi\\abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "L:\\Breeds\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_spinner_mtrl_am_alpha.9.png",
+        "source": "L:\\Breeds\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable-hdpi\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "L:\\Breeds\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\field_spaniel.png",
+        "source": "L:\\Breeds\\app\\src\\main\\res\\drawable-hdpi\\field_spaniel.png"
+    },
+    {
+        "merged": "L:\\Breeds\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_list_selector_disabled_holo_dark.9.png",
+        "source": "L:\\Breeds\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable-hdpi\\abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "L:\\Breeds\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\close.png",
+        "source": "L:\\Breeds\\app\\src\\main\\res\\drawable-hdpi\\close.png"
+    },
+    {
+        "merged": "L:\\Breeds\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\brabancon_griffon.png",
+        "source": "L:\\Breeds\\app\\src\\main\\res\\drawable-hdpi\\brabancon_griffon.png"
+    },
+    {
+        "merged": "L:\\Breeds\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\lhasa.png",
+        "source": "L:\\Breeds\\app\\src\\main\\res\\drawable-hdpi\\lhasa.png"
+    },
+    {
+        "merged": "L:\\Breeds\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_ab_share_pack_holo_light.9.png",
+        "source": "L:\\Breeds\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable-hdpi\\abc_ab_share_pack_holo_light.9.png"
+    },
+    {
+        "merged": "L:\\Breeds\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\pharaoh_hound.png",
+        "source": "L:\\Breeds\\app\\src\\main\\res\\drawable-hdpi\\pharaoh_hound.png"
+    },
+    {
+        "merged": "L:\\Breeds\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_textfield_default_mtrl_alpha.9.png",
+        "source": "L:\\Breeds\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable-hdpi\\abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "L:\\Breeds\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_list_pressed_holo_dark.9.png",
+        "source": "L:\\Breeds\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable-hdpi\\abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "L:\\Breeds\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\american_foxhound.png",
+        "source": "L:\\Breeds\\app\\src\\main\\res\\drawable-hdpi\\american_foxhound.png"
+    },
+    {
+        "merged": "L:\\Breeds\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\cardigan.png",
+        "source": "L:\\Breeds\\app\\src\\main\\res\\drawable-hdpi\\cardigan.png"
+    },
+    {
+        "merged": "L:\\Breeds\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_ic_voice_search_api_mtrl_alpha.png",
+        "source": "L:\\Breeds\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable-hdpi\\abc_ic_voice_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "L:\\Breeds\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\sound_icon_on.png",
+        "source": "L:\\Breeds\\app\\src\\main\\res\\drawable-hdpi\\sound_icon_on.png"
+    },
+    {
+        "merged": "L:\\Breeds\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\welsh_springer_spaniel.png",
+        "source": "L:\\Breeds\\app\\src\\main\\res\\drawable-hdpi\\welsh_springer_spaniel.png"
+    },
+    {
+        "merged": "L:\\Breeds\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\american_bulldog.png",
+        "source": "L:\\Breeds\\app\\src\\main\\res\\drawable-hdpi\\american_bulldog.png"
+    },
+    {
+        "merged": "L:\\Breeds\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\briard.png",
+        "source": "L:\\Breeds\\app\\src\\main\\res\\drawable-hdpi\\briard.png"
+    },
+    {
+        "merged": "L:\\Breeds\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\shar_pei.png",
+        "source": "L:\\Breeds\\app\\src\\main\\res\\drawable-hdpi\\shar_pei.png"
+    },
+    {
+        "merged": "L:\\Breeds\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\irish_wolfhound.png",
+        "source": "L:\\Breeds\\app\\src\\main\\res\\drawable-hdpi\\irish_wolfhound.png"
+    },
+    {
+        "merged": "L:\\Breeds\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_btn_switch_to_on_mtrl_00001.9.png",
+        "source": "L:\\Breeds\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable-hdpi\\abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "L:\\Breeds\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\sloughi.png",
+        "source": "L:\\Breeds\\app\\src\\main\\res\\drawable-hdpi\\sloughi.png"
+    },
+    {
+        "merged": "L:\\Breeds\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\basset.png",
+        "source": "L:\\Breeds\\app\\src\\main\\res\\drawable-hdpi\\basset.png"
+    },
+    {
+        "merged": "L:\\Breeds\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\translate_icon.png",
+        "source": "L:\\Breeds\\app\\src\\main\\res\\drawable-hdpi\\translate_icon.png"
+    },
+    {
+        "merged": "L:\\Breeds\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\leonberg.png",
+        "source": "L:\\Breeds\\app\\src\\main\\res\\drawable-hdpi\\leonberg.png"
+    },
+    {
+        "merged": "L:\\Breeds\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_ab_share_pack_holo_dark.9.png",
+        "source": "L:\\Breeds\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable-hdpi\\abc_ab_share_pack_holo_dark.9.png"
+    },
+    {
+        "merged": "L:\\Breeds\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\kooikerhondje.png",
+        "source": "L:\\Breeds\\app\\src\\main\\res\\drawable-hdpi\\kooikerhondje.png"
+    },
+    {
+        "merged": "L:\\Breeds\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\brittany_spaniel.png",
+        "source": "L:\\Breeds\\app\\src\\main\\res\\drawable-hdpi\\brittany_spaniel.png"
+    },
+    {
+        "merged": "L:\\Breeds\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\text_icon.png",
+        "source": "L:\\Breeds\\app\\src\\main\\res\\drawable-hdpi\\text_icon.png"
+    },
+    {
+        "merged": "L:\\Breeds\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\mexican_hairless.png",
+        "source": "L:\\Breeds\\app\\src\\main\\res\\drawable-hdpi\\mexican_hairless.png"
+    },
+    {
+        "merged": "L:\\Breeds\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\miniature_schnauzer.png",
+        "source": "L:\\Breeds\\app\\src\\main\\res\\drawable-hdpi\\miniature_schnauzer.png"
+    },
+    {
+        "merged": "L:\\Breeds\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\logo_icon.png",
+        "source": "L:\\Breeds\\app\\src\\main\\res\\drawable-hdpi\\logo_icon.png"
+    },
+    {
+        "merged": "L:\\Breeds\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\italian_greyhound.png",
+        "source": "L:\\Breeds\\app\\src\\main\\res\\drawable-hdpi\\italian_greyhound.png"
+    },
+    {
+        "merged": "L:\\Breeds\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\bearded_collie.png",
+        "source": "L:\\Breeds\\app\\src\\main\\res\\drawable-hdpi\\bearded_collie.png"
+    },
+    {
+        "merged": "L:\\Breeds\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\cesky_terrier.png",
+        "source": "L:\\Breeds\\app\\src\\main\\res\\drawable-hdpi\\cesky_terrier.png"
+    },
+    {
+        "merged": "L:\\Breeds\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_launcher.png",
+        "source": "L:\\Breeds\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "L:\\Breeds\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\toy_terrier.png",
+        "source": "L:\\Breeds\\app\\src\\main\\res\\drawable-hdpi\\toy_terrier.png"
+    },
+    {
+        "merged": "L:\\Breeds\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\japanese_spaniel.png",
+        "source": "L:\\Breeds\\app\\src\\main\\res\\drawable-hdpi\\japanese_spaniel.png"
+    },
+    {
+        "merged": "L:\\Breeds\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\appenzeller.png",
+        "source": "L:\\Breeds\\app\\src\\main\\res\\drawable-hdpi\\appenzeller.png"
+    },
+    {
+        "merged": "L:\\Breeds\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_list_pressed_holo_light.9.png",
+        "source": "L:\\Breeds\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable-hdpi\\abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "L:\\Breeds\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\lowchen.png",
+        "source": "L:\\Breeds\\app\\src\\main\\res\\drawable-hdpi\\lowchen.png"
+    },
+    {
+        "merged": "L:\\Breeds\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\english_foxhound.png",
+        "source": "L:\\Breeds\\app\\src\\main\\res\\drawable-hdpi\\english_foxhound.png"
+    },
+    {
+        "merged": "L:\\Breeds\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\bouvier_des_flandres.png",
+        "source": "L:\\Breeds\\app\\src\\main\\res\\drawable-hdpi\\bouvier_des_flandres.png"
+    },
+    {
+        "merged": "L:\\Breeds\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\img_5_star.png",
+        "source": "L:\\Breeds\\app\\src\\main\\res\\drawable-hdpi\\img_5_star.png"
+    },
+    {
+        "merged": "L:\\Breeds\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\dingo.png",
+        "source": "L:\\Breeds\\app\\src\\main\\res\\drawable-hdpi\\dingo.png"
+    },
+    {
+        "merged": "L:\\Breeds\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\afghan_hound.png",
+        "source": "L:\\Breeds\\app\\src\\main\\res\\drawable-hdpi\\afghan_hound.png"
+    },
+    {
+        "merged": "L:\\Breeds\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\chihuahua.png",
+        "source": "L:\\Breeds\\app\\src\\main\\res\\drawable-hdpi\\chihuahua.png"
+    },
+    {
+        "merged": "L:\\Breeds\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_ic_menu_copy_mtrl_am_alpha.png",
+        "source": "L:\\Breeds\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable-hdpi\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "L:\\Breeds\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\canaan_dog.png",
+        "source": "L:\\Breeds\\app\\src\\main\\res\\drawable-hdpi\\canaan_dog.png"
+    },
+    {
+        "merged": "L:\\Breeds\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\keeshond.png",
+        "source": "L:\\Breeds\\app\\src\\main\\res\\drawable-hdpi\\keeshond.png"
+    },
+    {
+        "merged": "L:\\Breeds\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\malamute.png",
+        "source": "L:\\Breeds\\app\\src\\main\\res\\drawable-hdpi\\malamute.png"
+    },
+    {
+        "merged": "L:\\Breeds\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_textfield_activated_mtrl_alpha.9.png",
+        "source": "L:\\Breeds\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable-hdpi\\abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "L:\\Breeds\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_btn_radio_to_on_mtrl_000.png",
+        "source": "L:\\Breeds\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable-hdpi\\abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "L:\\Breeds\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\pekinese.png",
+        "source": "L:\\Breeds\\app\\src\\main\\res\\drawable-hdpi\\pekinese.png"
+    },
+    {
+        "merged": "L:\\Breeds\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\img_1_star.png",
+        "source": "L:\\Breeds\\app\\src\\main\\res\\drawable-hdpi\\img_1_star.png"
+    },
+    {
+        "merged": "L:\\Breeds\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\finnish_spitz.png",
+        "source": "L:\\Breeds\\app\\src\\main\\res\\drawable-hdpi\\finnish_spitz.png"
+    },
+    {
+        "merged": "L:\\Breeds\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_ic_menu_cut_mtrl_alpha.png",
+        "source": "L:\\Breeds\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable-hdpi\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "L:\\Breeds\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\bedlington_terrier.png",
+        "source": "L:\\Breeds\\app\\src\\main\\res\\drawable-hdpi\\bedlington_terrier.png"
+    },
+    {
+        "merged": "L:\\Breeds\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_ic_commit_search_api_mtrl_alpha.png",
+        "source": "L:\\Breeds\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable-hdpi\\abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "L:\\Breeds\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\miniature_poodle.png",
+        "source": "L:\\Breeds\\app\\src\\main\\res\\drawable-hdpi\\miniature_poodle.png"
+    },
+    {
+        "merged": "L:\\Breeds\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\shetland_sheepdog.png",
+        "source": "L:\\Breeds\\app\\src\\main\\res\\drawable-hdpi\\shetland_sheepdog.png"
+    },
+    {
+        "merged": "L:\\Breeds\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\borzoi.png",
+        "source": "L:\\Breeds\\app\\src\\main\\res\\drawable-hdpi\\borzoi.png"
+    },
+    {
+        "merged": "L:\\Breeds\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\collie.png",
+        "source": "L:\\Breeds\\app\\src\\main\\res\\drawable-hdpi\\collie.png"
+    },
+    {
+        "merged": "L:\\Breeds\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\pembroke.png",
+        "source": "L:\\Breeds\\app\\src\\main\\res\\drawable-hdpi\\pembroke.png"
+    },
+    {
+        "merged": "L:\\Breeds\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ibizan_hound.png",
+        "source": "L:\\Breeds\\app\\src\\main\\res\\drawable-hdpi\\ibizan_hound.png"
+    },
+    {
+        "merged": "L:\\Breeds\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\splash.png",
+        "source": "L:\\Breeds\\app\\src\\main\\res\\drawable-hdpi\\splash.png"
+    },
+    {
+        "merged": "L:\\Breeds\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\upload_icon.png",
+        "source": "L:\\Breeds\\app\\src\\main\\res\\drawable-hdpi\\upload_icon.png"
+    },
+    {
+        "merged": "L:\\Breeds\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\golden_retriever.png",
+        "source": "L:\\Breeds\\app\\src\\main\\res\\drawable-hdpi\\golden_retriever.png"
+    },
+    {
+        "merged": "L:\\Breeds\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\tibetan_terrier.png",
+        "source": "L:\\Breeds\\app\\src\\main\\res\\drawable-hdpi\\tibetan_terrier.png"
+    },
+    {
+        "merged": "L:\\Breeds\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\staffordshire_bullterrier.png",
+        "source": "L:\\Breeds\\app\\src\\main\\res\\drawable-hdpi\\staffordshire_bullterrier.png"
+    },
+    {
+        "merged": "L:\\Breeds\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\silky_terrier.png",
+        "source": "L:\\Breeds\\app\\src\\main\\res\\drawable-hdpi\\silky_terrier.png"
+    },
+    {
+        "merged": "L:\\Breeds\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\sealyham_terrier.png",
+        "source": "L:\\Breeds\\app\\src\\main\\res\\drawable-hdpi\\sealyham_terrier.png"
+    },
+    {
+        "merged": "L:\\Breeds\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\bernese_mountain_dog.png",
+        "source": "L:\\Breeds\\app\\src\\main\\res\\drawable-hdpi\\bernese_mountain_dog.png"
+    },
+    {
+        "merged": "L:\\Breeds\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\norwich_terrier.png",
+        "source": "L:\\Breeds\\app\\src\\main\\res\\drawable-hdpi\\norwich_terrier.png"
+    },
+    {
+        "merged": "L:\\Breeds\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_tab_indicator_mtrl_alpha.9.png",
+        "source": "L:\\Breeds\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable-hdpi\\abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "L:\\Breeds\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\scottish_deerhound.png",
+        "source": "L:\\Breeds\\app\\src\\main\\res\\drawable-hdpi\\scottish_deerhound.png"
+    },
+    {
+        "merged": "L:\\Breeds\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_popup_background_mtrl_mult.9.png",
+        "source": "L:\\Breeds\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable-hdpi\\abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "L:\\Breeds\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\kerry_blue_terrier.png",
+        "source": "L:\\Breeds\\app\\src\\main\\res\\drawable-hdpi\\kerry_blue_terrier.png"
+    },
+    {
+        "merged": "L:\\Breeds\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\irish_setter.png",
+        "source": "L:\\Breeds\\app\\src\\main\\res\\drawable-hdpi\\irish_setter.png"
+    },
+    {
+        "merged": "L:\\Breeds\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\berger_picard.png",
+        "source": "L:\\Breeds\\app\\src\\main\\res\\drawable-hdpi\\berger_picard.png"
+    },
+    {
+        "merged": "L:\\Breeds\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\trademark_icon.png",
+        "source": "L:\\Breeds\\app\\src\\main\\res\\drawable-hdpi\\trademark_icon.png"
+    },
+    {
+        "merged": "L:\\Breeds\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\dalmation.png",
+        "source": "L:\\Breeds\\app\\src\\main\\res\\drawable-hdpi\\dalmation.png"
+    },
+    {
+        "merged": "L:\\Breeds\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\malinois.png",
+        "source": "L:\\Breeds\\app\\src\\main\\res\\drawable-hdpi\\malinois.png"
+    },
+    {
+        "merged": "L:\\Breeds\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\browse_icon.png",
+        "source": "L:\\Breeds\\app\\src\\main\\res\\drawable-hdpi\\browse_icon.png"
+    },
+    {
+        "merged": "L:\\Breeds\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\siberian_husky.png",
+        "source": "L:\\Breeds\\app\\src\\main\\res\\drawable-hdpi\\siberian_husky.png"
+    },
+    {
+        "merged": "L:\\Breeds\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\akita.png",
+        "source": "L:\\Breeds\\app\\src\\main\\res\\drawable-hdpi\\akita.png"
+    },
+    {
+        "merged": "L:\\Breeds\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\goldendoodle.png",
+        "source": "L:\\Breeds\\app\\src\\main\\res\\drawable-hdpi\\goldendoodle.png"
+    },
+    {
+        "merged": "L:\\Breeds\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_list_divider_mtrl_alpha.9.png",
+        "source": "L:\\Breeds\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable-hdpi\\abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "L:\\Breeds\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\miniature_pinscher.png",
+        "source": "L:\\Breeds\\app\\src\\main\\res\\drawable-hdpi\\miniature_pinscher.png"
+    },
+    {
+        "merged": "L:\\Breeds\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\beagle.png",
+        "source": "L:\\Breeds\\app\\src\\main\\res\\drawable-hdpi\\beagle.png"
+    },
+    {
+        "merged": "L:\\Breeds\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\cavalier_king_charles_spaniel.png",
+        "source": "L:\\Breeds\\app\\src\\main\\res\\drawable-hdpi\\cavalier_king_charles_spaniel.png"
+    },
+    {
+        "merged": "L:\\Breeds\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\bolognese.png",
+        "source": "L:\\Breeds\\app\\src\\main\\res\\drawable-hdpi\\bolognese.png"
+    },
+    {
+        "merged": "L:\\Breeds\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_btn_check_to_on_mtrl_015.png",
+        "source": "L:\\Breeds\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable-hdpi\\abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "L:\\Breeds\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\entlebucher.png",
+        "source": "L:\\Breeds\\app\\src\\main\\res\\drawable-hdpi\\entlebucher.png"
+    },
+    {
+        "merged": "L:\\Breeds\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\english_setter.png",
+        "source": "L:\\Breeds\\app\\src\\main\\res\\drawable-hdpi\\english_setter.png"
+    },
+    {
+        "merged": "L:\\Breeds\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\border_terrier.png",
+        "source": "L:\\Breeds\\app\\src\\main\\res\\drawable-hdpi\\border_terrier.png"
+    },
+    {
+        "merged": "L:\\Breeds\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\rhodesian_ridgeback.png",
+        "source": "L:\\Breeds\\app\\src\\main\\res\\drawable-hdpi\\rhodesian_ridgeback.png"
+    },
+    {
+        "merged": "L:\\Breeds\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\newfoundland.png",
+        "source": "L:\\Breeds\\app\\src\\main\\res\\drawable-hdpi\\newfoundland.png"
+    },
+    {
+        "merged": "L:\\Breeds\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\wire_haired_fox_terrier.png",
+        "source": "L:\\Breeds\\app\\src\\main\\res\\drawable-hdpi\\wire_haired_fox_terrier.png"
+    },
+    {
+        "merged": "L:\\Breeds\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\norfolk_terrier.png",
+        "source": "L:\\Breeds\\app\\src\\main\\res\\drawable-hdpi\\norfolk_terrier.png"
+    },
+    {
+        "merged": "L:\\Breeds\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\walker_hound.png",
+        "source": "L:\\Breeds\\app\\src\\main\\res\\drawable-hdpi\\walker_hound.png"
+    },
+    {
+        "merged": "L:\\Breeds\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\american_staffordshire_terrier.png",
+        "source": "L:\\Breeds\\app\\src\\main\\res\\drawable-hdpi\\american_staffordshire_terrier.png"
+    },
+    {
+        "merged": "L:\\Breeds\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\search_icon.png",
+        "source": "L:\\Breeds\\app\\src\\main\\res\\drawable-hdpi\\search_icon.png"
+    },
+    {
+        "merged": "L:\\Breeds\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\wikipedia_globe_icon.png",
+        "source": "L:\\Breeds\\app\\src\\main\\res\\drawable-hdpi\\wikipedia_globe_icon.png"
+    },
+    {
+        "merged": "L:\\Breeds\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\norwegian_lundehund.png",
+        "source": "L:\\Breeds\\app\\src\\main\\res\\drawable-hdpi\\norwegian_lundehund.png"
+    },
+    {
+        "merged": "L:\\Breeds\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\bichon_frise.png",
+        "source": "L:\\Breeds\\app\\src\\main\\res\\drawable-hdpi\\bichon_frise.png"
+    },
+    {
+        "merged": "L:\\Breeds\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_ic_menu_paste_mtrl_am_alpha.png",
+        "source": "L:\\Breeds\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable-hdpi\\abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "L:\\Breeds\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\border_collie.png",
+        "source": "L:\\Breeds\\app\\src\\main\\res\\drawable-hdpi\\border_collie.png"
+    },
+    {
+        "merged": "L:\\Breeds\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_textfield_search_activated_mtrl_alpha.9.png",
+        "source": "L:\\Breeds\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable-hdpi\\abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "L:\\Breeds\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\google_maps_icon.png",
+        "source": "L:\\Breeds\\app\\src\\main\\res\\drawable-hdpi\\google_maps_icon.png"
+    },
+    {
+        "merged": "L:\\Breeds\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\black_and_tan_coonhound.png",
+        "source": "L:\\Breeds\\app\\src\\main\\res\\drawable-hdpi\\black_and_tan_coonhound.png"
+    },
+    {
+        "merged": "L:\\Breeds\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\doberman.png",
+        "source": "L:\\Breeds\\app\\src\\main\\res\\drawable-hdpi\\doberman.png"
+    },
+    {
+        "merged": "L:\\Breeds\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\west_highland_white_terrier.png",
+        "source": "L:\\Breeds\\app\\src\\main\\res\\drawable-hdpi\\west_highland_white_terrier.png"
+    },
+    {
+        "merged": "L:\\Breeds\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\american_pit_bull_terrier.png",
+        "source": "L:\\Breeds\\app\\src\\main\\res\\drawable-hdpi\\american_pit_bull_terrier.png"
+    },
+    {
+        "merged": "L:\\Breeds\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\dachshund.png",
+        "source": "L:\\Breeds\\app\\src\\main\\res\\drawable-hdpi\\dachshund.png"
+    },
+    {
+        "merged": "L:\\Breeds\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\rottweiler.png",
+        "source": "L:\\Breeds\\app\\src\\main\\res\\drawable-hdpi\\rottweiler.png"
+    },
+    {
+        "merged": "L:\\Breeds\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\shiba_inu.png",
+        "source": "L:\\Breeds\\app\\src\\main\\res\\drawable-hdpi\\shiba_inu.png"
+    },
+    {
+        "merged": "L:\\Breeds\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\landmark_icon.png",
+        "source": "L:\\Breeds\\app\\src\\main\\res\\drawable-hdpi\\landmark_icon.png"
+    },
+    {
+        "merged": "L:\\Breeds\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\jack_russell_terrier.png",
+        "source": "L:\\Breeds\\app\\src\\main\\res\\drawable-hdpi\\jack_russell_terrier.png"
+    },
+    {
+        "merged": "L:\\Breeds\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_ic_menu_moreoverflow_mtrl_alpha.png",
+        "source": "L:\\Breeds\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable-hdpi\\abc_ic_menu_moreoverflow_mtrl_alpha.png"
+    },
+    {
+        "merged": "L:\\Breeds\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\lakeland_terrier.png",
+        "source": "L:\\Breeds\\app\\src\\main\\res\\drawable-hdpi\\lakeland_terrier.png"
+    },
+    {
+        "merged": "L:\\Breeds\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\australian_cattle_dog.png",
+        "source": "L:\\Breeds\\app\\src\\main\\res\\drawable-hdpi\\australian_cattle_dog.png"
+    },
+    {
+        "merged": "L:\\Breeds\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\pug.png",
+        "source": "L:\\Breeds\\app\\src\\main\\res\\drawable-hdpi\\pug.png"
+    },
+    {
+        "merged": "L:\\Breeds\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\standard_schnauzer.png",
+        "source": "L:\\Breeds\\app\\src\\main\\res\\drawable-hdpi\\standard_schnauzer.png"
+    },
+    {
+        "merged": "L:\\Breeds\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\boykin_spaniel.png",
+        "source": "L:\\Breeds\\app\\src\\main\\res\\drawable-hdpi\\boykin_spaniel.png"
+    },
+    {
+        "merged": "L:\\Breeds\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\img_3_star.png",
+        "source": "L:\\Breeds\\app\\src\\main\\res\\drawable-hdpi\\img_3_star.png"
+    },
+    {
+        "merged": "L:\\Breeds\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\item_icon.png",
+        "source": "L:\\Breeds\\app\\src\\main\\res\\drawable-hdpi\\item_icon.png"
+    },
+    {
+        "merged": "L:\\Breeds\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\labrador_retriever.png",
+        "source": "L:\\Breeds\\app\\src\\main\\res\\drawable-hdpi\\labrador_retriever.png"
+    },
+    {
+        "merged": "L:\\Breeds\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\australian_terrier.png",
+        "source": "L:\\Breeds\\app\\src\\main\\res\\drawable-hdpi\\australian_terrier.png"
+    },
+    {
+        "merged": "L:\\Breeds\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\maltese_dog.png",
+        "source": "L:\\Breeds\\app\\src\\main\\res\\drawable-hdpi\\maltese_dog.png"
+    },
+    {
+        "merged": "L:\\Breeds\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\english_springer.png",
+        "source": "L:\\Breeds\\app\\src\\main\\res\\drawable-hdpi\\english_springer.png"
+    },
+    {
+        "merged": "L:\\Breeds\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_cab_background_top_mtrl_alpha.9.png",
+        "source": "L:\\Breeds\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable-hdpi\\abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "L:\\Breeds\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\schnoodle.png",
+        "source": "L:\\Breeds\\app\\src\\main\\res\\drawable-hdpi\\schnoodle.png"
+    },
+    {
+        "merged": "L:\\Breeds\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\kelpie.png",
+        "source": "L:\\Breeds\\app\\src\\main\\res\\drawable-hdpi\\kelpie.png"
+    },
+    {
+        "merged": "L:\\Breeds\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\saarloos_wolfdog.png",
+        "source": "L:\\Breeds\\app\\src\\main\\res\\drawable-hdpi\\saarloos_wolfdog.png"
+    },
+    {
+        "merged": "L:\\Breeds\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\french_bulldog.png",
+        "source": "L:\\Breeds\\app\\src\\main\\res\\drawable-hdpi\\french_bulldog.png"
+    },
+    {
+        "merged": "L:\\Breeds\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\dandie_dinmont.png",
+        "source": "L:\\Breeds\\app\\src\\main\\res\\drawable-hdpi\\dandie_dinmont.png"
+    },
+    {
+        "merged": "L:\\Breeds\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\chow.png",
+        "source": "L:\\Breeds\\app\\src\\main\\res\\drawable-hdpi\\chow.png"
+    },
+    {
+        "merged": "L:\\Breeds\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\giant_schnauzer.png",
+        "source": "L:\\Breeds\\app\\src\\main\\res\\drawable-hdpi\\giant_schnauzer.png"
+    },
+    {
+        "merged": "L:\\Breeds\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\sussex_spaniel.png",
+        "source": "L:\\Breeds\\app\\src\\main\\res\\drawable-hdpi\\sussex_spaniel.png"
+    },
+    {
+        "merged": "L:\\Breeds\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\american_cocker_spaniel.png",
+        "source": "L:\\Breeds\\app\\src\\main\\res\\drawable-hdpi\\american_cocker_spaniel.png"
+    },
+    {
+        "merged": "L:\\Breeds\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\great_pyrenees.png",
+        "source": "L:\\Breeds\\app\\src\\main\\res\\drawable-hdpi\\great_pyrenees.png"
+    },
+    {
+        "merged": "L:\\Breeds\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\scotch_terrier.png",
+        "source": "L:\\Breeds\\app\\src\\main\\res\\drawable-hdpi\\scotch_terrier.png"
+    },
+    {
+        "merged": "L:\\Breeds\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\cockapoo.png",
+        "source": "L:\\Breeds\\app\\src\\main\\res\\drawable-hdpi\\cockapoo.png"
+    },
+    {
+        "merged": "L:\\Breeds\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_ic_menu_selectall_mtrl_alpha.png",
+        "source": "L:\\Breeds\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable-hdpi\\abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "L:\\Breeds\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\voice_icon.png",
+        "source": "L:\\Breeds\\app\\src\\main\\res\\drawable-hdpi\\voice_icon.png"
+    },
+    {
+        "merged": "L:\\Breeds\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\curly_coated_retriever.png",
+        "source": "L:\\Breeds\\app\\src\\main\\res\\drawable-hdpi\\curly_coated_retriever.png"
+    },
+    {
+        "merged": "L:\\Breeds\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\african_hunting_dog.png",
+        "source": "L:\\Breeds\\app\\src\\main\\res\\drawable-hdpi\\african_hunting_dog.png"
+    },
+    {
+        "merged": "L:\\Breeds\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\otterhound.png",
+        "source": "L:\\Breeds\\app\\src\\main\\res\\drawable-hdpi\\otterhound.png"
+    },
+    {
+        "merged": "L:\\Breeds\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\sound_icon_off.png",
+        "source": "L:\\Breeds\\app\\src\\main\\res\\drawable-hdpi\\sound_icon_off.png"
+    },
+    {
+        "merged": "L:\\Breeds\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\bull_mastiff.png",
+        "source": "L:\\Breeds\\app\\src\\main\\res\\drawable-hdpi\\bull_mastiff.png"
+    },
+    {
+        "merged": "L:\\Breeds\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\samoyed.png",
+        "source": "L:\\Breeds\\app\\src\\main\\res\\drawable-hdpi\\samoyed.png"
+    },
+    {
+        "merged": "L:\\Breeds\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\czechoslovakian_wolfdog.png",
+        "source": "L:\\Breeds\\app\\src\\main\\res\\drawable-hdpi\\czechoslovakian_wolfdog.png"
+    },
+    {
+        "merged": "L:\\Breeds\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\play_icon.png",
+        "source": "L:\\Breeds\\app\\src\\main\\res\\drawable-hdpi\\play_icon.png"
+    },
+    {
+        "merged": "L:\\Breeds\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\boston_bull.png",
+        "source": "L:\\Breeds\\app\\src\\main\\res\\drawable-hdpi\\boston_bull.png"
+    },
+    {
+        "merged": "L:\\Breeds\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\img_2_star.png",
+        "source": "L:\\Breeds\\app\\src\\main\\res\\drawable-hdpi\\img_2_star.png"
+    },
+    {
+        "merged": "L:\\Breeds\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\cocker_spaniel.png",
+        "source": "L:\\Breeds\\app\\src\\main\\res\\drawable-hdpi\\cocker_spaniel.png"
+    },
+    {
+        "merged": "L:\\Breeds\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\weimaraner.png",
+        "source": "L:\\Breeds\\app\\src\\main\\res\\drawable-hdpi\\weimaraner.png"
+    },
+    {
+        "merged": "L:\\Breeds\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\flat_coated_retriever.png",
+        "source": "L:\\Breeds\\app\\src\\main\\res\\drawable-hdpi\\flat_coated_retriever.png"
+    },
+    {
+        "merged": "L:\\Breeds\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\cane_corso.png",
+        "source": "L:\\Breeds\\app\\src\\main\\res\\drawable-hdpi\\cane_corso.png"
+    },
+    {
+        "merged": "L:\\Breeds\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\schipperke.png",
+        "source": "L:\\Breeds\\app\\src\\main\\res\\drawable-hdpi\\schipperke.png"
+    },
+    {
+        "merged": "L:\\Breeds\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\whippet.png",
+        "source": "L:\\Breeds\\app\\src\\main\\res\\drawable-hdpi\\whippet.png"
+    },
+    {
+        "merged": "L:\\Breeds\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\braque_d_auvergne.png",
+        "source": "L:\\Breeds\\app\\src\\main\\res\\drawable-hdpi\\braque_d_auvergne.png"
+    }
+]
